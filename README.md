@@ -2,7 +2,7 @@
 - 👀 I’m interested in Backend-Development
 - 🌱 I’m currently learning Elixir 
 - 💞️ I’m looking to collaborate on projects building scalable web apps
-- 📫 How to reach me ... @mativomartin.m@gmail.com
+- 📫 How to reach me ... mativomartin.m@gmail.com
 - 😄 Pronouns: ...He/Him
 
 
